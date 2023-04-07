@@ -1,7 +1,7 @@
 # cocochi
 
 cocochi は [aki27](https://twitter.com/aki27kbd) さん制作の [cocot46plus](https://shop.yushakobo.jp/products/pre-order-cocot46plus) のガスケットマウントアクリル積層ケースです.
-この商品ははんだ済みの PCB を持っている人を想定しています.
+こちらのケースははんだ済みの PCB を持っている人を想定しています.
 
 ## 基本的な同梱物 ( 試作キットによって多少違いますが、基本的には同じです )
 
@@ -26,6 +26,7 @@ cocochi は [aki27](https://twitter.com/aki27kbd) さん制作の [cocot46plus](
 - キースイッチ
 - キーキャップ
 - promicro 系
+- ノブ
 
 ## toc
 
@@ -37,6 +38,7 @@ cocochi は [aki27](https://twitter.com/aki27kbd) さん制作の [cocot46plus](
 1. スイッチプレートの設置
 1. OLED のピンヘッダー
 1. トラックボールケースの設置
+1. ゴム足の取付
 1. 完成!!
 
 ## 中身の取り出し
@@ -109,6 +111,13 @@ OLED のピンヘッダーの上にはみ出ている部分を短めにカット
 
 トラックボールケースは下から上にかけて徐々に小さくなっているので, 迷ったらこの形状を目安にしてください.
 ![layered-trackball-case](./images/layered-trackball.jpg)
+
+## ゴム足の取付
+
+写真の箇所の液体が垂れているように見える部分の先端にゴム足を 6 個取り付けます.
+先端の直径とゴム足の直径を合わせてあります.
+
+![labber-feet](./images/labber-feet.jpg)
 
 ## 完成!!
 
