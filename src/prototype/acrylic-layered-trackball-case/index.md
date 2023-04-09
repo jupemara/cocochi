@@ -7,7 +7,7 @@ cocochi は [aki27](https://twitter.com/aki27kbd) さん制作の [cocot46plus](
 
 - ケース
 - ケースフォーム
-  - PORON LE-20 or PORON LE-32 or コルク
+  - PORON LE-20 or コルク
 - スイッチフォーム
 - スイッチプレート
 - ガスケットフォーム
